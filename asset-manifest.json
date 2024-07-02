@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/realtime-weather-app/static/css/main.65d137a4.css",
+    "main.js": "/realtime-weather-app/static/js/main.8396b205.js",
+    "static/media/weather-background.jpg": "/realtime-weather-app/static/media/weather-background.922887797a16ae28bf4a.jpg",
+    "index.html": "/realtime-weather-app/index.html",
+    "main.65d137a4.css.map": "/realtime-weather-app/static/css/main.65d137a4.css.map",
+    "main.8396b205.js.map": "/realtime-weather-app/static/js/main.8396b205.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65d137a4.css",
+    "static/js/main.8396b205.js"
+  ]
+}
